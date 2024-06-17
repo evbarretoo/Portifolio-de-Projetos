@@ -118,10 +118,6 @@ span {
     line-height: 1;
 }
 
-.home-img {
-    border-radius: 50%;
-}
-
 .home-img img {
     position: relative;
     top: 3rem;
